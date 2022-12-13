@@ -1,0 +1,30 @@
+body{
+  background-color: #FEFCF3;
+}
+
+.toss-creator{
+  text-align:center;
+}
+h1{
+  color:#434242;
+  font-size: 5rem;
+}
+
+.toss{
+  text-align: center;
+}
+
+.toss-coin{
+  border-radius: 100%;
+  width:50%;
+}
+
+.toss-coin-heads{
+  border-radius: 100%;
+  width:45%;
+
+}
+
+.press{
+  padding: 50px;
+}
